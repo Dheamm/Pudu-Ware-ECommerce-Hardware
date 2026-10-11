@@ -1,5 +1,9 @@
 # Pudú-Ware
 
+<p align="center">
+  <img src="docs/img/pudu.webp" alt="Pudú" width="280">
+</p>
+
 E-commerce de venta de hardware. Proyecto Solemne 02.
 
 ## Equipo
